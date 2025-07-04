@@ -1,2 +1,6 @@
 #Hello world example
-print("Hello World!!!")
+
+def say_hello():
+    print("\nHello World!!!\n")
+
+say_hello()
